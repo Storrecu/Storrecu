@@ -1,16 +1,38 @@
-### Hi there 👋
+![Cover](https://github.com/Storrecu/Storrecu/blob/main/Cover.gif?raw=true)
 
-<!--
-**Storrecu/Storrecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+Hello on GitHub!  
+I'm Silvia and I've recently completed a web development bootcamp at Adalab.  
+My aim is to continue building websites to deepen my knowledge and provide value to users. With diverse experience, from customer-facing roles to human resources administration. 
+I fell in love with programming through my partner and decided to overhaul my entire professional career to pursue it.  
+Welcome to my space!
 
-Here are some ideas to get you started:
+### 🌐 Contact with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silviatorrecu) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:silviatc1993@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ✍️ Things I am currently working on:
+- Taking online courses (Platzi, Udemy...) to enhance my knowledge and write better code.
+- Improving my personal project by adding new functionalities.
+- Creating my personal portfolio.
+- Initiating new projects to practice and enjoy development.
+### 🧠 Things I am challenging myself with:
+- Creating a schedule similar to bootcamp classes to stay active.
+- Staying active on social media for job research.
+- Coding for at least 4 hours a day.
+
+### 💻 Tech stack & tools:
+
+| **Use**      | **Languages/Utilities**                                                    |
+|------------|---------------------------------------------------------------|
+| **Frontend**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=2e8bcf) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white&labelColor=pink)  ![JavaScript](https://img.shields.io/badge/JavaScript(ES6)-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=yellow) ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=lightblue) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=c3c6f8)|
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=4db34d) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=grey) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=6b94b3) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=6fb470)|
+| **Tools**      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=5b5b5b) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=e89282) ![Gulp](https://img.shields.io/badge/Gulp-E44D26?style=flat&logo=gulp&logoColor=white&labelColor=FF665E) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white&labelColor=5b5b5b) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white&labelColor=cd7675)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=f3ab91) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1993e6) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&labelColor=714471) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white&labelColor=5b5b5b) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&labelColor=19dde6)|
+
+
+### 📊 Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Storrecu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=Storrecu&icon=0&color=6)](https://visitcount.itsvg.in)
+
