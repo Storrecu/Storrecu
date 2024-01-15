@@ -1,4 +1,4 @@
-![Cover](https://github.com/Storrecu/Storrecu/blob/main/Cover.gif?raw=true)
+![Cover](https://github.com/Storrecu/Storrecu/blob/main/headerr.gif?raw=true)
 
 ## 💫 About Me:
 Hello on GitHub!  
