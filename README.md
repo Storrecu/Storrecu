@@ -1,5 +1,7 @@
 ![Cover](https://github.com/Storrecu/Storrecu/blob/main/headerr.gif?raw=true)
 
+<h1 align="center"><em>Codifying dreams, deploying realities</em></h1>
+
 ## 💫 About Me:
 Hello on GitHub!  
 I'm Silvia and I've recently completed a web development bootcamp at Adalab.  
