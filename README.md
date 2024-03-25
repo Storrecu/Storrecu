@@ -18,7 +18,7 @@ Welcome to my space!
 - I am studying a web design and publishing course offered by the Catalonia Employment Service, aiming to obtain a professional certificate that accredits and qualifies me to work as a web developer.
 - Studying **TypeScript** and **Next.js**.
 - Improving existing projects by adding tests, refactoring code, and implementing new functionalities
-- Improving my personal portfolio.
+- Improving my personal [portfolio](https://storrecu.github.io/Portfolio/)
 - Creating new projects to practice and enjoy development.
 ### 🧠 Things I am challenging myself with:
 - Creating a schedule similar to bootcamp classes to stay active.
